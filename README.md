@@ -2,4 +2,4 @@
 
 ***hosted on herokuapp***
 
-![news](https://user-images.githubusercontent.com/62857660/135564125-d9aabdda-7b04-4992-8876-0f9d53fac4aa.JPG)
+![news](https://user-images.githubusercontent.com/62857660/135564194-561e6eef-0bc1-4aa3-aecd-b01cf9ae52ec.JPG)
